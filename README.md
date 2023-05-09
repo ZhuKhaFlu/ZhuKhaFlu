@@ -2,7 +2,7 @@
 
 Hi I'm currently studing an Engeneering in Computer Tecnologies in Tec de Monterrey. I'm mainly focused in Cybersecurity and it's uses, this is because I wish to live in a world where can feel relaxed and calm knowing that my information is safe and secure and nobody will try to take advantage of me.
 
-I currently hold the Help Desk position at Quanti Solutins SA de CV.
+I currently hold the Help Desk position at Quanti Solutions SA de CV.
 
 <!--
 **ZhuKhaFlu/ZhuKhaFlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
