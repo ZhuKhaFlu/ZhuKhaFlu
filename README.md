@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hi I'm currently studing an Engeneering in Computer Tecnologies.
+
+I currently hold the Help Desk position @ Quanti Solutins SA de CV.
+
 <!--
 **ZhuKhaFlu/ZhuKhaFlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
